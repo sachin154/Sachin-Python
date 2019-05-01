@@ -1,0 +1,14 @@
+x=10
+y=10.5
+z=True
+A=[1,2,3,4,5]
+B=(1,2,3,4,5)
+C={'a':1,'b':2,'c':3,'d':4,'e':5}
+D="Hello"
+ print(type(x))
+ print(type(y))
+ print(type(z))
+ print(type(A))
+ print(type(B))
+ print(type(C))
+ print(type(D))
